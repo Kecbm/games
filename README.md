@@ -12,7 +12,7 @@
 **Nunca ter fome**: □, L2, R1, ▲, ↑, □, L2, ↑, X  
 **Suicídio**: →, L2, ↓, R1, ←, ←, R1, L1, L2, L1  
 **Nível assassino em todas as armas**: ↓, □, X, ←, R1, R2, ←, ↓, ↓, L1, L1, L1  
-**Sniper**:   
+**Sniper**: R1, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, ↓, ←,  
 **Miras perfeita enquanto esta dirigindo**: ↑, ↑, □, L2, →, X, R1, ↓, R2, O  
 
 ## 🚗 Materializar veículos
