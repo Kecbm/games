@@ -1,4 +1,4 @@
-# 👽 GTA Manhas
+# 🎮 GTA Manhas
 
 ## 😉 Códigos básicos
 
