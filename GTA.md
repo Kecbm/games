@@ -1,6 +1,6 @@
-# GTA Manhas
+# 👽 GTA Manhas
 
-## Códigos básicos
+## 😉 Códigos básicos
 
 **Colete, vida, $250.000**: R1, R2, L1, X, ←, ↓, →, ↑, ←, ↓, →, ↑  
 **Armas set 1**: R1, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, →, ↑  
@@ -15,7 +15,7 @@
 **Sniper**:   
 **Miras perfeita enquanto esta dirigindo**: ↑, ↑, □, L2, →, X, R1, ↓, R2, O  
 
-## Materializar veículos
+## 🚗 Materializar veículos
 
 **Carro de corrida 1**: R1, O, R2, →, L1, L2, X, X, □, R1  
 **Carro de corrida 2**: R2, L1, O, →, L1, R1, →, ↑, O, R2  
@@ -35,7 +35,7 @@
 **Barco anfíbio**: ▲, ▲, □, O, X, L1, L2, ↓, ↓  
 **Mochila a Jato**: ↑, ↓, ←, →, R1, R2, L1, L2, ↑, ↓, ←, →  
 
-## Transito
+## 🚦 Transito
 
 **Tráfego reduzido**: X, ↓, ↑, R2, ↓, ▲, L1, ▲, ←  
 **Carros de luxo**: ↑, L1, R1, ↑, →, ↑, X, L2, X, L1  
@@ -55,7 +55,7 @@
 **Motoristas agressivos**: R2, O, R1, L2, ↑, R1, L1, R2, L2  
 **Perícia em todos os veículos**: □, L2, X, R1, L2, L2, ←, R1, →, L1, L1, L1  
 
-## Tempo
+## 🌤️ Tempo
 
 **Céu limpo**: R2, X, L1, L1, L2, L2, L2, ▲  
 **Céu muito limpo**: R2, X, L1, L1, L2, L2, L2, ↓  
@@ -69,14 +69,14 @@
 **As horas passam mais rápido**: O, O, L1, □, L1, □, □, □, L1, ▲, O, ▲  
 **Sempre meia-noite**: □, L1, R1, →, X, ↑, L1, ←, ←  
 
-## Polícia
+## 🚓 Polícia
 
 **Limpar o nivel de procura**: R1, R1, O, R2, ↑, ↓, ↑, ↓, ↑, ↓  
 **Mais 2 estrelas**: R1, R1, O, R2, ←, →, ←, →, ←, →  
 **Nunca ser procurado**: O, →, O, →, ←, □, ▲, ↑  
 **Perseguição de 6 estrelas**: O, →, O, →, ←, □, X, ↓  
 
-## Personagem, CJ
+## 👨🏾 Personagem, CJ
 
 **Músculo (MAX)**: ▲, ↑, ↑, ←, →, □, O, ←  
 **Gordura (MAX)**: ▲, ↑, ↑, ←, →, □, O, ↓  
@@ -84,7 +84,7 @@
 **Respeito (MAX)**: L1, R1, ▲, ↓, R2, X, L1, ↑, L2, L2, L1, L1  
 **Aparência (Sex Appeal - MAX)**: O, ▲, ▲, ↑, O, R1, L2, ↑, ▲, L1, L1, L1  
 
-## Pedestres e gangues
+## 😎 Pedestres e gangues
 
 **Gangues nas ruas**: L2, ↑, R1, R1, ←, R1, R1, R2, →, ↓  
 **Gangues por toda parte**: ←, →, →, →, ←, X, ↓, ↑, □, →  
@@ -99,7 +99,7 @@
 **Pedestres iguais ao Elvis**: L1, O, ▲, L1, L1, □,L2, ↑, ↓, ←  
 **Pedestres são palhaços e carros com suspensão**: ▲, ▲, L1, □, □, O, □, ↓, O  
 
-## Outros
+## 🤠 Outros
 
 **Mega Soco**: ↑, ←, X, ▲, R1, O, O, O, L2  
 **Mega Pulo**: ↑, ↑, ▲, ▲, ↑, ↑, ←, →, □, R2, R2  
