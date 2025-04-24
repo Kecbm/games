@@ -33,7 +33,7 @@
 **Avião de manobra**: O, ↑, L1, L2, ↓, R1, L1, L1, ←, ←, X, ▲  
 **Helicóptero de Guerra**: O, X, L1, O, O, L1, O, R1, R2, L2, L1, L1  
 **Barco anfíbio**: ▲, ▲, □, O, X, L1, L2, ↓, ↓  
-**Mochila a Jato**: ↑, ↓, ←, →, R1, R2, L1, L2, ↑, ↓, ←, →  
+**Mochila a Jato**: L1, L2, R1, R2, ↑, ↓, ←, →, L1, L2, R1, R2, ↑, ↓, ←, →  
 
 ## 🚦 Transito
 
